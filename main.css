@@ -1,0 +1,187 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 36px;
+    color: rgba(66, 66, 66, 1);
+}
+
+.container {
+    max-width: 1085px;
+    margin: 0 auto;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 48px 0px;
+}
+
+header {
+    background-color: rgba(255, 255, 255, 1);
+    border: 2px solid rgba(222, 219, 219, 1);
+}
+
+li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.gg {
+    width: 175px;
+    height: 47px;
+}
+
+.fhd {
+    width: 150px;
+    height: 40px;
+}
+
+.giga-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.bit-box {
+    width: 650px;
+    height: 786px;
+    border-radius: 50px;
+    border-width: 1px;
+    background-color: rgba(255, 255, 255, 1);
+    padding: 65px;
+    border: 1px solid rgba(222, 219, 219, 1);
+}
+
+.bit-box-but-mini {
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+    color: rgba(240, 64, 15, 1);
+}
+
+a:hover {
+    color: rgba(155, 37, 5, 0.7);
+    text-decoration: underline;
+}
+
+.xdd {
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 48px;
+    color: rgba(14, 13, 93, 1);
+    margin-top: 128px;
+    text-align: center;
+}
+
+.oquvchi {
+    width: 255px;
+    height: 54px;
+    border-radius: 15px;
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 28px;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.poher {
+    background-color: rgba(245, 245, 245, 1);
+    width: 533px;
+    height: 70px;
+    border-radius: 20px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    gap: 3px;
+    margin: 40px 0px 20px 0px;
+}
+
+.ota-ona {
+    width: 255px;
+    height: 54px;
+    border-radius: 15px;
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 28px;
+    color: rgba(117, 117, 117, 1);
+}
+
+input {
+    width: 533px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid rgba(117, 117, 117, 0.19);
+    background-color: rgba(250, 250, 250, 1);
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 24px;
+    margin-top: 40px;
+    padding-left: 50px;
+}
+
+.ppp {
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 24px;
+    color: rgba(0, 0, 0, 0.64);
+}
+
+.ppp {
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 24px;
+    color: rgba(0, 0, 0, 0.64);
+}
+
+.ppp:hover {
+    color: rgba(45, 45, 45, 0.64);
+    text-decoration: underline;
+}
+
+button {
+    border-radius: 20px;
+    background-color: rgba(246, 158, 134, 1);
+    color: rgba(255, 255, 255, 1);
+    padding: 16px 15px;
+    border: none;
+    margin: 41px 58px 33px 370px;
+    font-family: Inter;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 24px;
+}
+
+.end {
+    display: flex;
+    justify-content: center;
+}
+
+.Oz {
+    display: flex;
+}
